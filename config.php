@@ -8,7 +8,7 @@ $config = [
     ],
     'app' => [
         'org'   => 'Connections, Inc.',
-        'title' => 'Kindness Clover',
+        'title' => 'Kindness Clovers',
     ],
     'db' => [
         'host' => 'localhost',

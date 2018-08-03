@@ -19,7 +19,7 @@
             <!--
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav">
-                    <li class="nav-item  <?= ($_GET['action'] == 'rank') ? "active" : "";?>">
+                    <li class="nav-item  <?= ($_GET['action'] == 'something') ? "active" : "";?>">
                         <a class="nav-link" href="./?action=something">
                             <i class="fa fa-sort-numeric-asc" aria-hidden="true"></i> Something
                         </a>
